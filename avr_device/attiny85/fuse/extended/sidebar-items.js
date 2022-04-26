@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EXTENDED_SPEC","No Description."],["R","Register `EXTENDED` reader"],["SELFPRGEN_R","Field `SELFPRGEN` reader - Self Programming enable"],["SELFPRGEN_W","Field `SELFPRGEN` writer - Self Programming enable"],["W","Register `EXTENDED` writer"]]});
